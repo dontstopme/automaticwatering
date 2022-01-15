@@ -1,5 +1,7 @@
 # automaticwatering
 
+A collection of scripts used for watering plants with a Raspberry PI. Commands a DIY circuit.
+
 ## Crontab
 This will runn the scheduler every minute
 Also reboots every 3 days just to be safe
